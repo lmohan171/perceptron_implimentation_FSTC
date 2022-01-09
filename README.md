@@ -1,0 +1,2 @@
+# perceptron_implimentation_FSTC
+perceptron_implimentation_FSTC first class
